@@ -1,4 +1,5 @@
 
+![200w](https://github.com/user-attachments/assets/07799cc7-d58c-4f2d-8173-18ae376dc8d1)
 
 - 👋 Hi, I’m Eunice Livingproof
 - 👀 I’m interested in full stack web development
